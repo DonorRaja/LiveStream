@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "79e63c561cfd22399e9d7f2a5f381d1f"
+build_time: [562918972, 828177000]
+inputs:
+  "/Users/mac10/Documents/Raja/sampleApps/Pods/StarscreamSocketIO/Source/Compression.swift": [562681392, 0]
+  "/Users/mac10/Documents/Raja/sampleApps/Pods/StarscreamSocketIO/Source/SSLSecurity.swift": [562681392, 0]
+  "/Users/mac10/Documents/Raja/sampleApps/Pods/StarscreamSocketIO/Source/WebSocket.swift": [562681392, 0]

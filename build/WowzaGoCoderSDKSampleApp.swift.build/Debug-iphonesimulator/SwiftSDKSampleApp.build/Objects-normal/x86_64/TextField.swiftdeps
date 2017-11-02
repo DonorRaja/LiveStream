@@ -1,0 +1,298 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "TextField"
+provides-nominal:
+- "C17SwiftSDKSampleApp9TextField"
+provides-member:
+- ["C17SwiftSDKSampleApp9TextField", ""]
+provides-dynamic-lookup:
+- "editingRect"
+- "insetY"
+- "insetX"
+- "textRect"
+depends-top-level:
+- "CGFloat"
+- "TextField"
+- "CGRect"
+- "UITextField"
+depends-member:
+- ["Ps9AnyObject", "editingRect"]
+- !private ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "insetX"]
+- ["Ps9AnyObject", "insetY"]
+- ["Ps9AnyObject", "textRect"]
+- ["Ps9AnyObject", ""]
+- ["PSo15CALayerDelegate", "editingRect"]
+- !private ["PSo15CALayerDelegate", "init"]
+- ["PSo15CALayerDelegate", "insetX"]
+- ["PSo15CALayerDelegate", "insetY"]
+- ["PSo15CALayerDelegate", "textRect"]
+- ["PSo15CALayerDelegate", ""]
+- ["V12CoreGraphics7CGFloat", "deinit"]
+- ["VSC6CGRect", "deinit"]
+- !private ["VSC6CGRect", "insetBy"]
+- ["Ps7CVarArg", "editingRect"]
+- !private ["Ps7CVarArg", "init"]
+- ["Ps7CVarArg", "insetX"]
+- ["Ps7CVarArg", "insetY"]
+- ["Ps7CVarArg", "textRect"]
+- ["Ps7CVarArg", ""]
+- ["Ps28CustomDebugStringConvertible", "editingRect"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "insetBy"]
+- ["Ps28CustomDebugStringConvertible", "insetX"]
+- ["Ps28CustomDebugStringConvertible", "insetY"]
+- ["Ps28CustomDebugStringConvertible", "textRect"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "insetBy"]
+- !private ["Ps17CustomReflectable", "insetBy"]
+- ["Ps23CustomStringConvertible", "editingRect"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "insetX"]
+- ["Ps23CustomStringConvertible", "insetY"]
+- ["Ps23CustomStringConvertible", "textRect"]
+- ["Ps23CustomStringConvertible", ""]
+- ["Ps9Equatable", "editingRect"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "insetBy"]
+- ["Ps9Equatable", "insetX"]
+- ["Ps9Equatable", "insetY"]
+- ["Ps9Equatable", "textRect"]
+- ["Ps9Equatable", ""]
+- ["Ps8Hashable", "editingRect"]
+- !private ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "insetX"]
+- ["Ps8Hashable", "insetY"]
+- ["Ps8Hashable", "textRect"]
+- ["Ps8Hashable", ""]
+- ["CSo7NSCoder", "deinit"]
+- ["PSo8NSCoding", "editingRect"]
+- !private ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "insetX"]
+- ["PSo8NSCoding", "insetY"]
+- ["PSo8NSCoding", "textRect"]
+- ["PSo8NSCoding", ""]
+- ["CSo8NSObject", "CGFloat"]
+- ["CSo8NSObject", "CGRect"]
+- ["CSo8NSObject", "editingRect"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "insetX"]
+- ["CSo8NSObject", "insetY"]
+- ["CSo8NSObject", "textRect"]
+- ["PSo16NSObjectProtocol", "editingRect"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "insetX"]
+- ["PSo16NSObjectProtocol", "insetY"]
+- ["PSo16NSObjectProtocol", "textRect"]
+- ["PSo16NSObjectProtocol", ""]
+- ["Sq", "deinit"]
+- ["C17SwiftSDKSampleApp9TextField", "CGFloat"]
+- ["C17SwiftSDKSampleApp9TextField", "CGRect"]
+- ["C17SwiftSDKSampleApp9TextField", "deinit"]
+- ["C17SwiftSDKSampleApp9TextField", "editingRect"]
+- ["C17SwiftSDKSampleApp9TextField", "init"]
+- ["C17SwiftSDKSampleApp9TextField", "insetX"]
+- ["C17SwiftSDKSampleApp9TextField", "insetY"]
+- ["C17SwiftSDKSampleApp9TextField", "textRect"]
+- ["PSo29UIAccessibilityIdentification", "editingRect"]
+- !private ["PSo29UIAccessibilityIdentification", "init"]
+- ["PSo29UIAccessibilityIdentification", "insetX"]
+- ["PSo29UIAccessibilityIdentification", "insetY"]
+- ["PSo29UIAccessibilityIdentification", "textRect"]
+- ["PSo29UIAccessibilityIdentification", ""]
+- ["PSo12UIAppearance", "editingRect"]
+- !private ["PSo12UIAppearance", "init"]
+- ["PSo12UIAppearance", "insetX"]
+- ["PSo12UIAppearance", "insetY"]
+- ["PSo12UIAppearance", "textRect"]
+- ["PSo12UIAppearance", ""]
+- ["PSo21UIAppearanceContainer", "editingRect"]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "insetX"]
+- ["PSo21UIAppearanceContainer", "insetY"]
+- ["PSo21UIAppearanceContainer", "textRect"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["PSo30UIContentSizeCategoryAdjusting", "editingRect"]
+- !private ["PSo30UIContentSizeCategoryAdjusting", "init"]
+- ["PSo30UIContentSizeCategoryAdjusting", "insetX"]
+- ["PSo30UIContentSizeCategoryAdjusting", "insetY"]
+- ["PSo30UIContentSizeCategoryAdjusting", "textRect"]
+- ["PSo30UIContentSizeCategoryAdjusting", ""]
+- ["CSo9UIControl", "CGFloat"]
+- ["CSo9UIControl", "CGRect"]
+- ["CSo9UIControl", "editingRect"]
+- ["CSo9UIControl", "init"]
+- ["CSo9UIControl", "insetX"]
+- ["CSo9UIControl", "insetY"]
+- ["CSo9UIControl", "textRect"]
+- ["PSo17UICoordinateSpace", "editingRect"]
+- !private ["PSo17UICoordinateSpace", "init"]
+- ["PSo17UICoordinateSpace", "insetX"]
+- ["PSo17UICoordinateSpace", "insetY"]
+- ["PSo17UICoordinateSpace", "textRect"]
+- ["PSo17UICoordinateSpace", ""]
+- ["PSo13UIDynamicItem", "editingRect"]
+- !private ["PSo13UIDynamicItem", "init"]
+- ["PSo13UIDynamicItem", "insetX"]
+- ["PSo13UIDynamicItem", "insetY"]
+- ["PSo13UIDynamicItem", "textRect"]
+- ["PSo13UIDynamicItem", ""]
+- ["PSo18UIFocusEnvironment", "editingRect"]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "insetX"]
+- ["PSo18UIFocusEnvironment", "insetY"]
+- ["PSo18UIFocusEnvironment", "textRect"]
+- ["PSo18UIFocusEnvironment", ""]
+- ["PSo11UIFocusItem", "editingRect"]
+- !private ["PSo11UIFocusItem", "init"]
+- ["PSo11UIFocusItem", "insetX"]
+- ["PSo11UIFocusItem", "insetY"]
+- ["PSo11UIFocusItem", "textRect"]
+- ["PSo11UIFocusItem", ""]
+- ["PSo10UIKeyInput", "editingRect"]
+- !private ["PSo10UIKeyInput", "init"]
+- ["PSo10UIKeyInput", "insetX"]
+- ["PSo10UIKeyInput", "insetY"]
+- ["PSo10UIKeyInput", "textRect"]
+- ["PSo10UIKeyInput", ""]
+- ["CSo11UIResponder", "CGFloat"]
+- ["CSo11UIResponder", "CGRect"]
+- ["CSo11UIResponder", "editingRect"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "insetX"]
+- ["CSo11UIResponder", "insetY"]
+- ["CSo11UIResponder", "textRect"]
+- ["PSo30UIResponderStandardEditActions", "editingRect"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- ["PSo30UIResponderStandardEditActions", "insetX"]
+- ["PSo30UIResponderStandardEditActions", "insetY"]
+- ["PSo30UIResponderStandardEditActions", "textRect"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- ["CSo11UITextField", "CGFloat"]
+- ["CSo11UITextField", "CGRect"]
+- ["CSo11UITextField", "deinit"]
+- ["CSo11UITextField", "editingRect"]
+- ["CSo11UITextField", "init"]
+- ["CSo11UITextField", "insetX"]
+- ["CSo11UITextField", "insetY"]
+- ["CSo11UITextField", "textRect"]
+- ["CSo11UITextField", ""]
+- ["PSo11UITextInput", "editingRect"]
+- !private ["PSo11UITextInput", "init"]
+- ["PSo11UITextInput", "insetX"]
+- ["PSo11UITextInput", "insetY"]
+- ["PSo11UITextInput", "textRect"]
+- ["PSo11UITextInput", ""]
+- ["PSo17UITextInputTraits", "editingRect"]
+- !private ["PSo17UITextInputTraits", "init"]
+- ["PSo17UITextInputTraits", "insetX"]
+- ["PSo17UITextInputTraits", "insetY"]
+- ["PSo17UITextInputTraits", "textRect"]
+- ["PSo17UITextInputTraits", ""]
+- ["PSo18UITraitEnvironment", "editingRect"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "insetX"]
+- ["PSo18UITraitEnvironment", "insetY"]
+- ["PSo18UITraitEnvironment", "textRect"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo6UIView", "CGFloat"]
+- ["CSo6UIView", "CGRect"]
+- ["CSo6UIView", "editingRect"]
+- ["CSo6UIView", "init"]
+- ["CSo6UIView", "insetX"]
+- ["CSo6UIView", "insetY"]
+- ["CSo6UIView", "textRect"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "editingRect"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "init"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "insetX"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "insetY"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "textRect"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", ""]
+- ["Ps9_Hashable", "editingRect"]
+- !private ["Ps9_Hashable", "init"]
+- ["Ps9_Hashable", "insetX"]
+- ["Ps9_Hashable", "insetY"]
+- ["Ps9_Hashable", "textRect"]
+- ["Ps9_Hashable", ""]
+depends-nominal:
+- "Ps9AnyObject"
+- "PSo15CALayerDelegate"
+- "V12CoreGraphics7CGFloat"
+- "VSC6CGRect"
+- "Ps7CVarArg"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "CSo7NSCoder"
+- "PSo8NSCoding"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "Sq"
+- "C17SwiftSDKSampleApp9TextField"
+- "PSo29UIAccessibilityIdentification"
+- "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo30UIContentSizeCategoryAdjusting"
+- "CSo9UIControl"
+- "PSo17UICoordinateSpace"
+- "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- "PSo11UIFocusItem"
+- "PSo10UIKeyInput"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "CSo11UITextField"
+- "PSo11UITextInput"
+- "PSo17UITextInputTraits"
+- "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- "Ps37_DefaultCustomPlaygroundQuickLookable"
+- "Ps9_Hashable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/mac10/Documents/Raja/sampleApps/SDKSampleApp.swift/SwiftSDKSampleApp-Bridging-Header.h"
+- "/Users/mac10/Documents/Raja/sampleApps/shared/SettingsViewController.h"
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Users/mac10/Documents/Raja/sampleApps/shared/SettingsViewModel.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZAudioDevice.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZCameraPreview.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZCamera.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZImageUtilities.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZAACEncoder.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZBroadcast.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZH264Encoder.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZBroadcastComponent.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZPlatformInfo.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZVersionInfo.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZError.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZDataSink.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZDataEvent.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZAudioEncoderSink.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZVideoEncoderSink.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZAudioSink.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZMediaSink.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZVideoSink.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZStatus.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZStatusCallback.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZData.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZMediaConfig.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZStreamConfig.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WowzaConfig.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WowzaGoCoder.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WowzaGoCoderSDK.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Modules/module.modulemap"
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/AVFoundation.swiftmodule"
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreMedia.swiftmodule"
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreAudio.swiftmodule"
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "ad9ebc4353699f1be5f74cd89bb0a040"

@@ -1,0 +1,273 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SocketData"
+- "AckCallback"
+- "NormalCallback"
+- "JSON"
+- "Probe"
+- "ProbeWaitQueue"
+- "Either"
+provides-nominal:
+- "P8SocketIO10SocketData"
+- "Sa"
+- "Sb"
+- "Vs10Dictionary"
+- "Sd"
+- "Si"
+- "CSo7NSArray"
+- "V10Foundation4Data"
+- "CSo6NSData"
+- "CSo12NSDictionary"
+- "CSo8NSString"
+- "CSo6NSNull"
+- "SS"
+- "O8SocketIO6Either"
+provides-member:
+- ["P8SocketIO10SocketData", ""]
+- ["Sa", ""]
+- ["Sb", ""]
+- ["Vs10Dictionary", ""]
+- ["Sd", ""]
+- ["Si", ""]
+- ["CSo7NSArray", ""]
+- ["V10Foundation4Data", ""]
+- ["CSo6NSData", ""]
+- ["CSo12NSDictionary", ""]
+- ["CSo8NSString", ""]
+- ["CSo6NSNull", ""]
+- ["SS", ""]
+- ["O8SocketIO6Either", ""]
+- ["P8SocketIO10SocketData", "socketRepresentation"]
+provides-dynamic-lookup:
+depends-top-level:
+- "NormalCallback"
+- "SocketEnginePacketType"
+- "NSArray"
+- "NSDictionary"
+- "Data"
+- "Dictionary"
+- "NSData"
+- "ProbeWaitQueue"
+- "NSNull"
+- "Int"
+- "NSString"
+- "Array"
+- "AckCallback"
+- "JSON"
+- "Probe"
+- "Either"
+- "SocketAckEmitter"
+- "Double"
+- "Bool"
+- "String"
+- "SocketData"
+depends-member:
+- ["Ps16AbsoluteValuable", "socketRepresentation"]
+- ["Ps9AnyObject", "socketRepresentation"]
+- ["Sa", "deinit"]
+- ["Sa", "socketRepresentation"]
+- ["Ps23BidirectionalCollection", "socketRepresentation"]
+- ["Ps22BidirectionalIndexable", "socketRepresentation"]
+- ["Ps19BinaryFloatingPoint", "socketRepresentation"]
+- ["Ps17BitwiseOperations", "socketRepresentation"]
+- ["Sb", "deinit"]
+- ["Sb", "socketRepresentation"]
+- ["PSo8CAAction", "socketRepresentation"]
+- ["Ps7CVarArg", "socketRepresentation"]
+- ["Ps10Collection", "socketRepresentation"]
+- ["Ps10Comparable", "socketRepresentation"]
+- ["Ps28CustomDebugStringConvertible", "socketRepresentation"]
+- ["Ps29CustomPlaygroundQuickLookable", "socketRepresentation"]
+- ["Ps17CustomReflectable", "socketRepresentation"]
+- ["Ps23CustomStringConvertible", "socketRepresentation"]
+- ["V10Foundation4Data", "deinit"]
+- ["V10Foundation4Data", "socketRepresentation"]
+- ["Vs10Dictionary", "deinit"]
+- ["Vs10Dictionary", "socketRepresentation"]
+- ["Sd", "deinit"]
+- ["Sd", "socketRepresentation"]
+- ["O8SocketIO6Either", "E"]
+- ["O8SocketIO6Either", "V"]
+- ["O8SocketIO6Either", "left"]
+- ["O8SocketIO6Either", "right"]
+- ["Ps9Equatable", "socketRepresentation"]
+- ["Ps25ExpressibleByArrayLiteral", "socketRepresentation"]
+- ["Ps27ExpressibleByBooleanLiteral", "socketRepresentation"]
+- ["Ps30ExpressibleByDictionaryLiteral", "socketRepresentation"]
+- ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "socketRepresentation"]
+- ["Ps25ExpressibleByFloatLiteral", "socketRepresentation"]
+- ["Ps27ExpressibleByIntegerLiteral", "socketRepresentation"]
+- ["Ps32ExpressibleByStringInterpolation", "socketRepresentation"]
+- ["Ps26ExpressibleByStringLiteral", "socketRepresentation"]
+- ["Ps33ExpressibleByUnicodeScalarLiteral", "socketRepresentation"]
+- ["Ps13FloatingPoint", "socketRepresentation"]
+- ["Ps8Hashable", "socketRepresentation"]
+- ["Ps9Indexable", "socketRepresentation"]
+- ["Ps13IndexableBase", "socketRepresentation"]
+- ["Si", "deinit"]
+- ["Si", "socketRepresentation"]
+- ["Ps7Integer", "socketRepresentation"]
+- ["Ps17IntegerArithmetic", "socketRepresentation"]
+- ["Ps25LosslessStringConvertible", "socketRepresentation"]
+- ["Ps10MirrorPath", "socketRepresentation"]
+- ["Ps17MutableCollection", "socketRepresentation"]
+- ["Ps16MutableIndexable", "socketRepresentation"]
+- ["CSo7NSArray", "deinit"]
+- ["CSo7NSArray", "socketRepresentation"]
+- ["PSo8NSCoding", "socketRepresentation"]
+- ["PSo9NSCopying", "socketRepresentation"]
+- ["CSo6NSData", "deinit"]
+- ["CSo6NSData", "socketRepresentation"]
+- ["CSo12NSDictionary", "deinit"]
+- ["CSo12NSDictionary", "socketRepresentation"]
+- ["PSo17NSFastEnumeration", "socketRepresentation"]
+- ["PSo16NSMutableCopying", "socketRepresentation"]
+- ["CSo6NSNull", "deinit"]
+- ["CSo6NSNull", "socketRepresentation"]
+- ["CSo8NSObject", "socketRepresentation"]
+- ["PSo16NSObjectProtocol", "socketRepresentation"]
+- ["PSo14NSSecureCoding", "socketRepresentation"]
+- ["CSo8NSString", "deinit"]
+- ["CSo8NSString", "socketRepresentation"]
+- ["Ps22RandomAccessCollection", "socketRepresentation"]
+- ["Ps21RandomAccessIndexable", "socketRepresentation"]
+- ["Ps26RangeReplaceableCollection", "socketRepresentation"]
+- ["Ps25RangeReplaceableIndexable", "socketRepresentation"]
+- ["P10Foundation20ReferenceConvertible", "socketRepresentation"]
+- ["Ps8Sequence", "socketRepresentation"]
+- ["Ps13SignedInteger", "socketRepresentation"]
+- ["Ps12SignedNumber", "socketRepresentation"]
+- ["P8SocketIO10SocketData", "SocketData"]
+- ["P8SocketIO10SocketData", "socketRepresentation"]
+- ["P8SocketIO10SocketData", ""]
+- ["Ps10Strideable", "socketRepresentation"]
+- ["SS", "deinit"]
+- ["SS", "socketRepresentation"]
+- ["Ps16TextOutputStream", "socketRepresentation"]
+- ["Ps20TextOutputStreamable", "socketRepresentation"]
+- ["Ps14_ArrayProtocol", "socketRepresentation"]
+- ["Ps15_CVarArgAligned", "socketRepresentation"]
+- ["Ps22_CVarArgPassedAsDouble", "socketRepresentation"]
+- ["Ps24_DestructorSafeContainer", "socketRepresentation"]
+- ["Ps35_ExpressibleByBuiltinBooleanLiteral", "socketRepresentation"]
+- ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "socketRepresentation"]
+- ["Ps33_ExpressibleByBuiltinFloatLiteral", "socketRepresentation"]
+- ["Ps35_ExpressibleByBuiltinIntegerLiteral", "socketRepresentation"]
+- ["Ps34_ExpressibleByBuiltinStringLiteral", "socketRepresentation"]
+- ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "socketRepresentation"]
+- ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "socketRepresentation"]
+- ["Ps35_HasCustomAnyHashableRepresentation", "socketRepresentation"]
+- ["Ps9_Hashable", "socketRepresentation"]
+- ["Ps14_Incrementable", "socketRepresentation"]
+- ["Ps8_Integer", "socketRepresentation"]
+- ["Ps18_IntegerArithmetic", "socketRepresentation"]
+- ["P10Foundation18_MutablePairBoxing", "socketRepresentation"]
+- ["Ps21_ObjectiveCBridgeable", "socketRepresentation"]
+- ["Ps14_SignedInteger", "socketRepresentation"]
+- ["Ps11_Strideable", "socketRepresentation"]
+depends-nominal:
+- "Ps16AbsoluteValuable"
+- "Ps9AnyObject"
+- "Sa"
+- "Ps23BidirectionalCollection"
+- "Ps22BidirectionalIndexable"
+- "Ps19BinaryFloatingPoint"
+- "Ps17BitwiseOperations"
+- "Sb"
+- "PSo8CAAction"
+- "Ps7CVarArg"
+- "Ps10Collection"
+- "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- "Ps29CustomPlaygroundQuickLookable"
+- "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "V10Foundation4Data"
+- "Vs10Dictionary"
+- "Sd"
+- "O8SocketIO6Either"
+- "Ps9Equatable"
+- "Ps25ExpressibleByArrayLiteral"
+- "Ps27ExpressibleByBooleanLiteral"
+- "Ps30ExpressibleByDictionaryLiteral"
+- "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- "Ps25ExpressibleByFloatLiteral"
+- "Ps27ExpressibleByIntegerLiteral"
+- "Ps32ExpressibleByStringInterpolation"
+- "Ps26ExpressibleByStringLiteral"
+- "Ps33ExpressibleByUnicodeScalarLiteral"
+- "Ps13FloatingPoint"
+- "Ps8Hashable"
+- "Ps9Indexable"
+- "Ps13IndexableBase"
+- "Si"
+- "Ps7Integer"
+- "Ps17IntegerArithmetic"
+- "Ps25LosslessStringConvertible"
+- "Ps10MirrorPath"
+- "Ps17MutableCollection"
+- "Ps16MutableIndexable"
+- "CSo7NSArray"
+- "PSo8NSCoding"
+- "PSo9NSCopying"
+- "CSo6NSData"
+- "CSo12NSDictionary"
+- "PSo17NSFastEnumeration"
+- "PSo16NSMutableCopying"
+- "CSo6NSNull"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo14NSSecureCoding"
+- "CSo8NSString"
+- "Ps22RandomAccessCollection"
+- "Ps21RandomAccessIndexable"
+- "Ps26RangeReplaceableCollection"
+- "Ps25RangeReplaceableIndexable"
+- "P10Foundation20ReferenceConvertible"
+- "Ps8Sequence"
+- "Ps13SignedInteger"
+- "Ps12SignedNumber"
+- "P8SocketIO10SocketData"
+- "Ps10Strideable"
+- "SS"
+- "Ps16TextOutputStream"
+- "Ps20TextOutputStreamable"
+- "Ps14_ArrayProtocol"
+- "Ps15_CVarArgAligned"
+- "Ps22_CVarArgPassedAsDouble"
+- "Ps24_DestructorSafeContainer"
+- "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- "Ps33_ExpressibleByBuiltinFloatLiteral"
+- "Ps35_ExpressibleByBuiltinIntegerLiteral"
+- "Ps34_ExpressibleByBuiltinStringLiteral"
+- "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- "Ps14_Incrementable"
+- "Ps8_Integer"
+- "Ps18_IntegerArithmetic"
+- "P10Foundation18_MutablePairBoxing"
+- "Ps21_ObjectiveCBridgeable"
+- "Ps14_SignedInteger"
+- "Ps11_Strideable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/mac10/Documents/Raja/sampleApps/Pods/StarscreamSocketIO/zlib/module.modulemap"
+- "/Users/mac10/Documents/Raja/sampleApps/Pods/Target Support Files/Socket.IO-Client-Swift/Socket.IO-Client-Swift-umbrella.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Pods.build/Debug-iphonesimulator/Socket.IO-Client-Swift.build/unextended-module.modulemap"
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphonesimulator/StarscreamSocketIO/StarscreamSocketIO.framework/Modules/StarscreamSocketIO.swiftmodule/x86_64.swiftmodule"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphonesimulator/StarscreamSocketIO/StarscreamSocketIO.framework/Headers/StarscreamSocketIO-Swift.h"
+- "/Users/mac10/Documents/Raja/sampleApps/Pods/Target Support Files/StarscreamSocketIO/StarscreamSocketIO-umbrella.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Pods.build/Debug-iphonesimulator/StarscreamSocketIO.build/module.modulemap"
+interface-hash: "9f81bdc8def20397ca49e0e7eab976a8"

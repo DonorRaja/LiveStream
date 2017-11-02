@@ -1,0 +1,521 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SocketAckEmitter"
+- "OnAckCallback"
+provides-nominal:
+- "C8SocketIO16SocketAckEmitter"
+- "C8SocketIO13OnAckCallback"
+provides-member:
+- ["C8SocketIO16SocketAckEmitter", ""]
+- ["C8SocketIO13OnAckCallback", ""]
+provides-dynamic-lookup:
+- "expected"
+- "with"
+- "ackNum"
+- "socket"
+- "timingOut"
+depends-top-level:
+- "Bool"
+- !private "+"
+- "SocketAckEmitter"
+- !private "Array"
+- "AssignmentPrecedence"
+- "OnAckCallback"
+- "NSObject"
+- "Int"
+- !private "StringLiteralType"
+- "SocketData"
+- !private "!="
+- "AckCallback"
+- "SocketIOClient"
+- "Double"
+- !private "DispatchTime"
+- !private "DefaultSocketLogger"
+depends-member:
+- !private ["Ps9AnyObject", "DefaultSocketLogger"]
+- !private ["Ps9AnyObject", "DispatchTime"]
+- !private ["Ps9AnyObject", "Logger"]
+- !private ["Ps9AnyObject", "_emit"]
+- !private ["Ps9AnyObject", "ackHandlers"]
+- ["Ps9AnyObject", "ackNum"]
+- ["Ps9AnyObject", "ackNumber"]
+- !private ["Ps9AnyObject", "asyncAfter"]
+- !private ["Ps9AnyObject", "emitAck"]
+- ["Ps9AnyObject", "expected"]
+- !private ["Ps9AnyObject", "handleClientEvent"]
+- !private ["Ps9AnyObject", "handleQueue"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "items"]
+- ["Ps9AnyObject", "socket"]
+- ["Ps9AnyObject", "timingOut"]
+- ["Ps9AnyObject", "with"]
+- ["Ps9AnyObject", ""]
+- !private ["Sa", "Element"]
+- !private ["Sa", "Iterator"]
+- !private ["Sa", "_Element"]
+- ["Sa", "deinit"]
+- !private ["Sa", "map"]
+- !private ["Ps23BidirectionalCollection", "Element"]
+- !private ["Ps23BidirectionalCollection", "Iterator"]
+- !private ["Ps23BidirectionalCollection", "_Element"]
+- !private ["Ps23BidirectionalCollection", "map"]
+- !private ["Ps22BidirectionalIndexable", "Element"]
+- !private ["Ps22BidirectionalIndexable", "Iterator"]
+- !private ["Ps22BidirectionalIndexable", "_Element"]
+- !private ["Ps22BidirectionalIndexable", "map"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["Sb", "deinit"]
+- !private ["Ps7CVarArg", "DefaultSocketLogger"]
+- !private ["Ps7CVarArg", "DispatchTime"]
+- !private ["Ps7CVarArg", "Element"]
+- !private ["Ps7CVarArg", "Iterator"]
+- !private ["Ps7CVarArg", "_Element"]
+- !private ["Ps7CVarArg", "_emit"]
+- !private ["Ps7CVarArg", "ackHandlers"]
+- ["Ps7CVarArg", "ackNum"]
+- ["Ps7CVarArg", "ackNumber"]
+- !private ["Ps7CVarArg", "asyncAfter"]
+- !private ["Ps7CVarArg", "emitAck"]
+- ["Ps7CVarArg", "expected"]
+- !private ["Ps7CVarArg", "handleClientEvent"]
+- !private ["Ps7CVarArg", "handleQueue"]
+- ["Ps7CVarArg", "init"]
+- ["Ps7CVarArg", "items"]
+- !private ["Ps7CVarArg", "map"]
+- ["Ps7CVarArg", "socket"]
+- ["Ps7CVarArg", "timingOut"]
+- ["Ps7CVarArg", "with"]
+- ["Ps7CVarArg", ""]
+- !private ["Vs9Character", "deinit"]
+- !private ["Ps10Collection", "Element"]
+- !private ["Ps10Collection", "Iterator"]
+- !private ["Ps10Collection", "_Element"]
+- !private ["Ps10Collection", "map"]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps10Comparable", "now"]
+- !private ["Ps28CustomDebugStringConvertible", "DefaultSocketLogger"]
+- !private ["Ps28CustomDebugStringConvertible", "DispatchTime"]
+- !private ["Ps28CustomDebugStringConvertible", "Element"]
+- !private ["Ps28CustomDebugStringConvertible", "Iterator"]
+- !private ["Ps28CustomDebugStringConvertible", "_Element"]
+- !private ["Ps28CustomDebugStringConvertible", "_emit"]
+- !private ["Ps28CustomDebugStringConvertible", "ackHandlers"]
+- ["Ps28CustomDebugStringConvertible", "ackNum"]
+- ["Ps28CustomDebugStringConvertible", "ackNumber"]
+- !private ["Ps28CustomDebugStringConvertible", "asyncAfter"]
+- !private ["Ps28CustomDebugStringConvertible", "emitAck"]
+- ["Ps28CustomDebugStringConvertible", "expected"]
+- !private ["Ps28CustomDebugStringConvertible", "handleClientEvent"]
+- !private ["Ps28CustomDebugStringConvertible", "handleQueue"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "items"]
+- !private ["Ps28CustomDebugStringConvertible", "map"]
+- ["Ps28CustomDebugStringConvertible", "socket"]
+- ["Ps28CustomDebugStringConvertible", "some"]
+- ["Ps28CustomDebugStringConvertible", "timingOut"]
+- ["Ps28CustomDebugStringConvertible", "with"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "Element"]
+- !private ["Ps17CustomReflectable", "Iterator"]
+- !private ["Ps17CustomReflectable", "_Element"]
+- !private ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps17CustomReflectable", "map"]
+- ["Ps17CustomReflectable", "some"]
+- !private ["Ps23CustomStringConvertible", "DefaultSocketLogger"]
+- !private ["Ps23CustomStringConvertible", "DispatchTime"]
+- !private ["Ps23CustomStringConvertible", "Element"]
+- !private ["Ps23CustomStringConvertible", "Iterator"]
+- !private ["Ps23CustomStringConvertible", "_Element"]
+- !private ["Ps23CustomStringConvertible", "_emit"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps23CustomStringConvertible", "ackHandlers"]
+- ["Ps23CustomStringConvertible", "ackNum"]
+- ["Ps23CustomStringConvertible", "ackNumber"]
+- !private ["Ps23CustomStringConvertible", "asyncAfter"]
+- !private ["Ps23CustomStringConvertible", "emitAck"]
+- ["Ps23CustomStringConvertible", "expected"]
+- !private ["Ps23CustomStringConvertible", "handleClientEvent"]
+- !private ["Ps23CustomStringConvertible", "handleQueue"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "items"]
+- !private ["Ps23CustomStringConvertible", "map"]
+- ["Ps23CustomStringConvertible", "socket"]
+- ["Ps23CustomStringConvertible", "timingOut"]
+- ["Ps23CustomStringConvertible", "with"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["C8SocketIO19DefaultSocketLogger", "Logger"]
+- !private ["CSo14DispatchObject", "asyncAfter"]
+- !private ["CSo13DispatchQueue", "asyncAfter"]
+- ["V8Dispatch12DispatchTime", "deinit"]
+- !private ["V8Dispatch12DispatchTime", "now"]
+- ["Sd", "deinit"]
+- !private ["Ps9Equatable", "DefaultSocketLogger"]
+- !private ["Ps9Equatable", "DispatchTime"]
+- !private ["Ps9Equatable", "_emit"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- !private ["Ps9Equatable", "ackHandlers"]
+- ["Ps9Equatable", "ackNum"]
+- ["Ps9Equatable", "ackNumber"]
+- !private ["Ps9Equatable", "asyncAfter"]
+- !private ["Ps9Equatable", "emitAck"]
+- !private ["Ps9Equatable", "error"]
+- ["Ps9Equatable", "expected"]
+- !private ["Ps9Equatable", "handleClientEvent"]
+- !private ["Ps9Equatable", "handleQueue"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "items"]
+- !private ["Ps9Equatable", "now"]
+- ["Ps9Equatable", "socket"]
+- ["Ps9Equatable", "timingOut"]
+- ["Ps9Equatable", "with"]
+- ["Ps9Equatable", ""]
+- ["Ps5Error", "deinit"]
+- !private ["Ps25ExpressibleByArrayLiteral", "Element"]
+- !private ["Ps25ExpressibleByArrayLiteral", "Iterator"]
+- !private ["Ps25ExpressibleByArrayLiteral", "_Element"]
+- !private ["Ps25ExpressibleByArrayLiteral", "map"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- ["Ps23ExpressibleByNilLiteral", "some"]
+- !private ["Ps32ExpressibleByStringInterpolation", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Sf", "deinit"]
+- !private ["Ps8Hashable", "DefaultSocketLogger"]
+- !private ["Ps8Hashable", "DispatchTime"]
+- !private ["Ps8Hashable", "_emit"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps8Hashable", "ackHandlers"]
+- ["Ps8Hashable", "ackNum"]
+- ["Ps8Hashable", "ackNumber"]
+- !private ["Ps8Hashable", "asyncAfter"]
+- !private ["Ps8Hashable", "emitAck"]
+- !private ["Ps8Hashable", "error"]
+- ["Ps8Hashable", "expected"]
+- !private ["Ps8Hashable", "handleClientEvent"]
+- !private ["Ps8Hashable", "handleQueue"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "items"]
+- ["Ps8Hashable", "socket"]
+- ["Ps8Hashable", "timingOut"]
+- ["Ps8Hashable", "with"]
+- ["Ps8Hashable", ""]
+- !private ["Ps9Indexable", "Element"]
+- !private ["Ps9Indexable", "Iterator"]
+- !private ["Ps9Indexable", "_Element"]
+- !private ["Ps9Indexable", "map"]
+- !private ["Ps13IndexableBase", "Element"]
+- !private ["Ps13IndexableBase", "Iterator"]
+- !private ["Ps13IndexableBase", "_Element"]
+- !private ["Ps13IndexableBase", "map"]
+- !private ["Vs16IndexingIterator", "Element"]
+- ["Si", "deinit"]
+- !private ["Vs5Int16", "deinit"]
+- !private ["Vs5Int32", "deinit"]
+- !private ["Vs5Int64", "deinit"]
+- !private ["Vs4Int8", "deinit"]
+- !private ["Ps16IteratorProtocol", "Element"]
+- !private ["Ps25LosslessStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps10MirrorPath", "init"]
+- !private ["Ps17MutableCollection", "Element"]
+- !private ["Ps17MutableCollection", "Iterator"]
+- !private ["Ps17MutableCollection", "_Element"]
+- !private ["Ps17MutableCollection", "map"]
+- !private ["Ps16MutableIndexable", "Element"]
+- !private ["Ps16MutableIndexable", "Iterator"]
+- !private ["Ps16MutableIndexable", "_Element"]
+- !private ["Ps16MutableIndexable", "map"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo16NSMutableCopying", "init"]
+- ["CSo8NSObject", "AckCallback"]
+- ["CSo8NSObject", "Bool"]
+- !private ["CSo8NSObject", "DefaultSocketLogger"]
+- !private ["CSo8NSObject", "DispatchTime"]
+- ["CSo8NSObject", "Double"]
+- ["CSo8NSObject", "Int"]
+- ["CSo8NSObject", "SocketData"]
+- ["CSo8NSObject", "SocketIOClient"]
+- !private ["CSo8NSObject", "_emit"]
+- !private ["CSo8NSObject", "ackHandlers"]
+- ["CSo8NSObject", "ackNum"]
+- ["CSo8NSObject", "ackNumber"]
+- !private ["CSo8NSObject", "asyncAfter"]
+- ["CSo8NSObject", "deinit"]
+- !private ["CSo8NSObject", "emitAck"]
+- ["CSo8NSObject", "expected"]
+- !private ["CSo8NSObject", "handleClientEvent"]
+- !private ["CSo8NSObject", "handleQueue"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "items"]
+- ["CSo8NSObject", "socket"]
+- ["CSo8NSObject", "timingOut"]
+- ["CSo8NSObject", "with"]
+- ["CSo8NSObject", ""]
+- !private ["PSo16NSObjectProtocol", "DefaultSocketLogger"]
+- !private ["PSo16NSObjectProtocol", "DispatchTime"]
+- !private ["PSo16NSObjectProtocol", "_emit"]
+- !private ["PSo16NSObjectProtocol", "ackHandlers"]
+- ["PSo16NSObjectProtocol", "ackNum"]
+- ["PSo16NSObjectProtocol", "ackNumber"]
+- !private ["PSo16NSObjectProtocol", "asyncAfter"]
+- !private ["PSo16NSObjectProtocol", "emitAck"]
+- ["PSo16NSObjectProtocol", "expected"]
+- !private ["PSo16NSObjectProtocol", "handleClientEvent"]
+- !private ["PSo16NSObjectProtocol", "handleQueue"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "items"]
+- ["PSo16NSObjectProtocol", "socket"]
+- ["PSo16NSObjectProtocol", "timingOut"]
+- ["PSo16NSObjectProtocol", "with"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["CSo8NSString", "init"]
+- ["Os5Never", "deinit"]
+- !private ["CSo9OS_object", "asyncAfter"]
+- ["C8SocketIO13OnAckCallback", "AckCallback"]
+- !private ["C8SocketIO13OnAckCallback", "DefaultSocketLogger"]
+- !private ["C8SocketIO13OnAckCallback", "DispatchTime"]
+- ["C8SocketIO13OnAckCallback", "Double"]
+- ["C8SocketIO13OnAckCallback", "Int"]
+- ["C8SocketIO13OnAckCallback", "SocketIOClient"]
+- !private ["C8SocketIO13OnAckCallback", "ackNumber"]
+- ["C8SocketIO13OnAckCallback", "deinit"]
+- ["C8SocketIO13OnAckCallback", "init"]
+- !private ["C8SocketIO13OnAckCallback", "items"]
+- !private ["C8SocketIO13OnAckCallback", "socket"]
+- ["C8SocketIO13OnAckCallback", "timingOut"]
+- ["Sq", "deinit"]
+- ["Sq", "some"]
+- !private ["Ps22RandomAccessCollection", "Element"]
+- !private ["Ps22RandomAccessCollection", "Iterator"]
+- !private ["Ps22RandomAccessCollection", "_Element"]
+- !private ["Ps22RandomAccessCollection", "map"]
+- !private ["Ps21RandomAccessIndexable", "Element"]
+- !private ["Ps21RandomAccessIndexable", "Iterator"]
+- !private ["Ps21RandomAccessIndexable", "_Element"]
+- !private ["Ps21RandomAccessIndexable", "map"]
+- !private ["Ps26RangeReplaceableCollection", "Element"]
+- !private ["Ps26RangeReplaceableCollection", "Iterator"]
+- !private ["Ps26RangeReplaceableCollection", "_Element"]
+- !private ["Ps26RangeReplaceableCollection", "map"]
+- !private ["Ps25RangeReplaceableIndexable", "Element"]
+- !private ["Ps25RangeReplaceableIndexable", "Iterator"]
+- !private ["Ps25RangeReplaceableIndexable", "_Element"]
+- !private ["Ps25RangeReplaceableIndexable", "map"]
+- !private ["Ps16RawRepresentable", "error"]
+- !private ["Ps8Sequence", "Element"]
+- !private ["Ps8Sequence", "Iterator"]
+- !private ["Ps8Sequence", "_Element"]
+- !private ["Ps8Sequence", "map"]
+- ["C8SocketIO16SocketAckEmitter", "Bool"]
+- ["C8SocketIO16SocketAckEmitter", "Int"]
+- ["C8SocketIO16SocketAckEmitter", "SocketData"]
+- ["C8SocketIO16SocketAckEmitter", "SocketIOClient"]
+- ["C8SocketIO16SocketAckEmitter", "ackNum"]
+- ["C8SocketIO16SocketAckEmitter", "deinit"]
+- ["C8SocketIO16SocketAckEmitter", "expected"]
+- ["C8SocketIO16SocketAckEmitter", "init"]
+- ["C8SocketIO16SocketAckEmitter", "socket"]
+- ["C8SocketIO16SocketAckEmitter", "with"]
+- !private ["V8SocketIO16SocketAckManager", "addAck"]
+- !private ["V8SocketIO16SocketAckManager", "timeoutAck"]
+- ["O8SocketIO17SocketClientEvent", "deinit"]
+- !private ["O8SocketIO17SocketClientEvent", "error"]
+- !private ["P8SocketIO10SocketData", "Element"]
+- !private ["P8SocketIO10SocketData", "Iterator"]
+- !private ["P8SocketIO10SocketData", "_Element"]
+- !private ["P8SocketIO10SocketData", "_getBuiltinLogicValue"]
+- !private ["P8SocketIO10SocketData", "deinit"]
+- !private ["P8SocketIO10SocketData", "init"]
+- !private ["P8SocketIO10SocketData", "map"]
+- !private ["P8SocketIO10SocketData", "socketRepresentation"]
+- !private ["P8SocketIO18SocketEngineClient", "_emit"]
+- !private ["P8SocketIO18SocketEngineClient", "ackHandlers"]
+- !private ["P8SocketIO18SocketEngineClient", "emitAck"]
+- !private ["P8SocketIO18SocketEngineClient", "handleClientEvent"]
+- !private ["P8SocketIO18SocketEngineClient", "handleQueue"]
+- !private ["C8SocketIO14SocketIOClient", "_emit"]
+- !private ["C8SocketIO14SocketIOClient", "ackHandlers"]
+- ["C8SocketIO14SocketIOClient", "deinit"]
+- !private ["C8SocketIO14SocketIOClient", "emitAck"]
+- !private ["C8SocketIO14SocketIOClient", "handleClientEvent"]
+- !private ["C8SocketIO14SocketIOClient", "handleQueue"]
+- !private ["P8SocketIO18SocketIOClientSpec", "_emit"]
+- !private ["P8SocketIO18SocketIOClientSpec", "ackHandlers"]
+- !private ["P8SocketIO18SocketIOClientSpec", "emitAck"]
+- !private ["P8SocketIO18SocketIOClientSpec", "handleClientEvent"]
+- !private ["P8SocketIO18SocketIOClientSpec", "handleQueue"]
+- !private ["P8SocketIO12SocketLogger", "Logger"]
+- !private ["P8SocketIO12SocketLogger", "deinit"]
+- !private ["P8SocketIO12SocketLogger", "log"]
+- !private ["P8SocketIO14SocketParsable", "_emit"]
+- !private ["P8SocketIO14SocketParsable", "ackHandlers"]
+- !private ["P8SocketIO14SocketParsable", "emitAck"]
+- !private ["P8SocketIO14SocketParsable", "handleClientEvent"]
+- !private ["P8SocketIO14SocketParsable", "handleQueue"]
+- ["Vs12StaticString", "deinit"]
+- !private ["Vs12StaticString", "init"]
+- ["SS", "deinit"]
+- !private ["SS", "init"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- ["Su", "deinit"]
+- !private ["Vs6UInt16", "deinit"]
+- !private ["Vs6UInt32", "deinit"]
+- !private ["Vs6UInt64", "deinit"]
+- !private ["Vs5UInt8", "deinit"]
+- !private ["Sc", "deinit"]
+- !private ["Ps14_ArrayProtocol", "Element"]
+- !private ["Ps14_ArrayProtocol", "Iterator"]
+- !private ["Ps14_ArrayProtocol", "_Element"]
+- !private ["Ps14_ArrayProtocol", "map"]
+- !private ["Ps24_DestructorSafeContainer", "Element"]
+- !private ["Ps24_DestructorSafeContainer", "Iterator"]
+- !private ["Ps24_DestructorSafeContainer", "_Element"]
+- !private ["Ps24_DestructorSafeContainer", "map"]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "DefaultSocketLogger"]
+- !private ["Ps9_Hashable", "DispatchTime"]
+- !private ["Ps9_Hashable", "_emit"]
+- !private ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps9_Hashable", "ackHandlers"]
+- ["Ps9_Hashable", "ackNum"]
+- ["Ps9_Hashable", "ackNumber"]
+- !private ["Ps9_Hashable", "asyncAfter"]
+- !private ["Ps9_Hashable", "emitAck"]
+- !private ["Ps9_Hashable", "error"]
+- ["Ps9_Hashable", "expected"]
+- !private ["Ps9_Hashable", "handleClientEvent"]
+- !private ["Ps9_Hashable", "handleQueue"]
+- ["Ps9_Hashable", "init"]
+- ["Ps9_Hashable", "items"]
+- ["Ps9_Hashable", "socket"]
+- ["Ps9_Hashable", "timingOut"]
+- ["Ps9_Hashable", "with"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps21_ObjectiveCBridgeable", "Element"]
+- !private ["Ps21_ObjectiveCBridgeable", "Iterator"]
+- !private ["Ps21_ObjectiveCBridgeable", "_Element"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Ps21_ObjectiveCBridgeable", "map"]
+- !private ["Vs26_OptionalNilComparisonType", "deinit"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Sa"
+- !private "Ps23BidirectionalCollection"
+- !private "Ps22BidirectionalIndexable"
+- "Sb"
+- "Ps7CVarArg"
+- !private "Vs9Character"
+- !private "Ps10Collection"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- !private "C8SocketIO19DefaultSocketLogger"
+- !private "CSo14DispatchObject"
+- !private "CSo13DispatchQueue"
+- "V8Dispatch12DispatchTime"
+- "Sd"
+- "Ps9Equatable"
+- "Ps5Error"
+- !private "Ps25ExpressibleByArrayLiteral"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- "Ps23ExpressibleByNilLiteral"
+- !private "Ps32ExpressibleByStringInterpolation"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- !private "Sf"
+- "Ps8Hashable"
+- !private "Ps9Indexable"
+- !private "Ps13IndexableBase"
+- !private "Vs16IndexingIterator"
+- "Si"
+- !private "Vs5Int16"
+- !private "Vs5Int32"
+- !private "Vs5Int64"
+- !private "Vs4Int8"
+- !private "Ps16IteratorProtocol"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- !private "Ps17MutableCollection"
+- !private "Ps16MutableIndexable"
+- !private "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- "Os5Never"
+- !private "CSo9OS_object"
+- "C8SocketIO13OnAckCallback"
+- "Sq"
+- !private "Ps22RandomAccessCollection"
+- !private "Ps21RandomAccessIndexable"
+- !private "Ps26RangeReplaceableCollection"
+- !private "Ps25RangeReplaceableIndexable"
+- !private "Ps16RawRepresentable"
+- !private "Ps8Sequence"
+- "C8SocketIO16SocketAckEmitter"
+- !private "V8SocketIO16SocketAckManager"
+- "O8SocketIO17SocketClientEvent"
+- !private "P8SocketIO10SocketData"
+- !private "P8SocketIO18SocketEngineClient"
+- "C8SocketIO14SocketIOClient"
+- !private "P8SocketIO18SocketIOClientSpec"
+- !private "P8SocketIO12SocketLogger"
+- !private "P8SocketIO14SocketParsable"
+- "Vs12StaticString"
+- "SS"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- "Su"
+- !private "Vs6UInt16"
+- !private "Vs6UInt32"
+- !private "Vs6UInt64"
+- !private "Vs5UInt8"
+- !private "Sc"
+- !private "Ps14_ArrayProtocol"
+- !private "Ps24_DestructorSafeContainer"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+- !private "Vs26_OptionalNilComparisonType"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/mac10/Documents/Raja/sampleApps/Pods/StarscreamSocketIO/zlib/module.modulemap"
+- "/Users/mac10/Documents/Raja/sampleApps/Pods/Target Support Files/Socket.IO-Client-Swift/Socket.IO-Client-Swift-umbrella.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Pods.build/Debug-iphonesimulator/Socket.IO-Client-Swift.build/unextended-module.modulemap"
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphonesimulator/StarscreamSocketIO/StarscreamSocketIO.framework/Modules/StarscreamSocketIO.swiftmodule/x86_64.swiftmodule"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphonesimulator/StarscreamSocketIO/StarscreamSocketIO.framework/Headers/StarscreamSocketIO-Swift.h"
+- "/Users/mac10/Documents/Raja/sampleApps/Pods/Target Support Files/StarscreamSocketIO/StarscreamSocketIO-umbrella.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Pods.build/Debug-iphonesimulator/StarscreamSocketIO.build/module.modulemap"
+interface-hash: "f3f91a17fb70ef5d4041420deb86360b"

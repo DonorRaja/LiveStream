@@ -1,0 +1,30 @@
+-x
+objective-c
+-arch
+x86_64
+-std=gnu99
+-fobjc-arc
+-fmodules
+-gmodules
+-fmodules-cache-path=/Users/mac10/Library/Developer/Xcode/DerivedData/ModuleCache
+-fpascal-strings
+-O0
+-fno-common
+-DDEBUG=1
+-DOBJC_OLD_DISPATCH_PROTOTYPES=0
+-isysroot
+/Applications/Temp/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator10.0.sdk
+-fasm-blocks
+-mios-simulator-version-min=8.0
+-g
+-fobjc-abi-version=2
+-fobjc-legacy-dispatch
+-iquote
+-iquote
+-I/Users/mac10/Downloads/gocoder-sdk-ios-build-0735-v1.0.5 2/sample-apps/build/Debug-iphonesimulator/include
+-F/Users/mac10/Downloads/gocoder-sdk-ios-build-0735-v1.0.5 2/sample-apps/build/Debug-iphonesimulator
+-F/Users/mac10/Downloads/gocoder-sdk-ios-build-0735-v1.0.5 2/sample-apps
+x86_64-apple-darwin16.6.0
+"4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.38)"
+SDK_PRODUCT_BUILD_VERSION=14A345
+14A345
