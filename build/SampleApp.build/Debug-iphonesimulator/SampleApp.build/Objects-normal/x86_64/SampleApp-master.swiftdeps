@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "90af351410913b30a25d1d7edc5d7184"
+build_time: [562919057, 692317000]
+inputs:
+  "/Users/mac10/Documents/Raja/sampleApps/SDKSampleApp.swift/VideoViewController.swift": !dirty [562918970, 0]
+  "/Users/mac10/Documents/Raja/sampleApps/SDKSampleApp.swift/DesignableButton.swift": !dirty [551303878, 0]
+  "/Users/mac10/Documents/Raja/sampleApps/SDKSampleApp.swift/WaveEmitterView.swift": !dirty [551303878, 0]
+  "/Users/mac10/Documents/Raja/sampleApps/SDKSampleApp.swift/Conversation.swift": !dirty [553526284, 0]
+  "/Users/mac10/Documents/Raja/sampleApps/SDKSampleApp.swift/Model.swift": !dirty [562682825, 0]
+  "/Users/mac10/Documents/Raja/sampleApps/SDKSampleApp.swift/TextField.swift": !dirty [551303878, 0]
+  "/Users/mac10/Documents/Raja/sampleApps/SDKSampleApp.swift/DemoConversation.swift": !dirty [562410376, 0]
+  "/Users/mac10/Documents/Raja/sampleApps/SDKSampleApp.swift/ChatViewController.swift": !dirty [562917748, 0]
+  "/Users/mac10/Documents/Raja/sampleApps/SDKSampleApp.swift/AppDelegate.swift": !dirty [551787746, 0]

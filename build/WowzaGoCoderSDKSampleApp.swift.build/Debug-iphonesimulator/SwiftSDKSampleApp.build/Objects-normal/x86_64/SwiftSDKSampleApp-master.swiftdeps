@@ -1,0 +1,9 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "08bf95c4fcd08b4918d2aa856fec5dcd"
+build_time: [562342215, 486725000]
+inputs:
+  "/Users/mac10/Documents/Raja/sampleApps/SDKSampleApp.swift/VideoViewController.swift": [551787746, 0]
+  "/Users/mac10/Documents/Raja/sampleApps/SDKSampleApp.swift/DesignableButton.swift": [551303878, 0]
+  "/Users/mac10/Documents/Raja/sampleApps/SDKSampleApp.swift/WaveEmitterView.swift": [551303878, 0]
+  "/Users/mac10/Documents/Raja/sampleApps/SDKSampleApp.swift/TextField.swift": [551303878, 0]
+  "/Users/mac10/Documents/Raja/sampleApps/SDKSampleApp.swift/AppDelegate.swift": [551787746, 0]

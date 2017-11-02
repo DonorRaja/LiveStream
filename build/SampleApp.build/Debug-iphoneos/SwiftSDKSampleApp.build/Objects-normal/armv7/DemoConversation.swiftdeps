@@ -1,0 +1,518 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "User"
+- "getName"
+- "AvatarIDLeonard"
+- "AvatarIDSquires"
+- "AvatarIdCook"
+- "AvatarIdJobs"
+- "AvatarIdWoz"
+- "AvatarLeonard"
+- "AvatarCook"
+- "AvatarJobs"
+- "AvatarWoz"
+- "AvatarSquires"
+- "getAvatar"
+- "conversationsList"
+- "convo"
+- "conversation"
+- "message"
+- "message2"
+- "message3"
+- "message4"
+- "message5"
+- "message6"
+- "message7"
+- "message8"
+- "message9"
+- "photoItem"
+- "photoMessage"
+- "sample"
+- "audioData"
+- "audioItem"
+- "audioMessage"
+- "makeGroupConversation"
+- "makeNormalConversation"
+provides-nominal:
+- "O17SwiftSDKSampleApp4User"
+provides-member:
+- ["O17SwiftSDKSampleApp4User", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "Array"
+- "message3"
+- "Data"
+- "JSQMessage"
+- "photoItem"
+- "conversationsList"
+- "Bundle"
+- "sample"
+- "Conversation"
+- "AvatarCook"
+- "AvatarIdCook"
+- "audioMessage"
+- "JSQMessagesAvatarImage"
+- "AvatarIdWoz"
+- "UIImage"
+- "AvatarSquires"
+- "AvatarIdJobs"
+- "=="
+- "message5"
+- "JSQAudioMediaItem"
+- "AssignmentPrecedence"
+- "audioItem"
+- "conversation"
+- "message7"
+- !private "~="
+- "getName"
+- "JSQMessagesAvatarImageFactory"
+- "StringLiteralType"
+- "message4"
+- "String"
+- "message9"
+- "AvatarJobs"
+- "photoMessage"
+- "BooleanLiteralType"
+- "User"
+- "URL"
+- "message"
+- "AvatarLeonard"
+- "message2"
+- "makeGroupConversation"
+- "audioData"
+- "AvatarIDLeonard"
+- "AvatarWoz"
+- "makeNormalConversation"
+- "convo"
+- "JSQPhotoMediaItem"
+- "getAvatar"
+- "AvatarIDSquires"
+- "message8"
+- "message6"
+depends-member:
+- ["PSo21AVAudioPlayerDelegate", "init"]
+- ["Ps9AnyObject", "avatarImage"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "main"]
+- ["Ps9AnyObject", "path"]
+- !private ["Sa", "Element"]
+- ["Sa", "deinit"]
+- ["Sa", "init"]
+- !private ["Ps23BidirectionalCollection", "Element"]
+- ["Ps23BidirectionalCollection", "init"]
+- !private ["Ps22BidirectionalIndexable", "Element"]
+- ["Ps22BidirectionalIndexable", "init"]
+- !private ["Ps17BitwiseOperations", "hashValue"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["Sb", "deinit"]
+- ["CSo6Bundle", "deinit"]
+- ["CSo6Bundle", "main"]
+- ["CSo6Bundle", "path"]
+- !private ["Ps7CVarArg", "Element"]
+- ["Ps7CVarArg", "avatarImage"]
+- !private ["Ps7CVarArg", "hashValue"]
+- ["Ps7CVarArg", "init"]
+- ["Ps7CVarArg", "main"]
+- ["Ps7CVarArg", "path"]
+- !private ["Vs11ClosedRange", "deinit"]
+- !private ["Ps10Collection", "Element"]
+- ["Ps10Collection", "init"]
+- !private ["Ps10Comparable", "hashValue"]
+- ["Ps10Comparable", "init"]
+- ["V17SwiftSDKSampleApp12Conversation", "deinit"]
+- ["V17SwiftSDKSampleApp12Conversation", "init"]
+- !private ["Vs20CountableClosedRange", "deinit"]
+- !private ["Vs14CountableRange", "deinit"]
+- !private ["Ps28CustomDebugStringConvertible", "Element"]
+- ["Ps28CustomDebugStringConvertible", "avatarImage"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "main"]
+- ["Ps28CustomDebugStringConvertible", "path"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "hashValue"]
+- ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "Element"]
+- !private ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- !private ["Ps17CustomReflectable", "hashValue"]
+- ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "Element"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- ["Ps23CustomStringConvertible", "avatarImage"]
+- !private ["Ps23CustomStringConvertible", "hashValue"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "main"]
+- ["Ps23CustomStringConvertible", "path"]
+- ["V10Foundation4Data", "deinit"]
+- ["V10Foundation4Data", "init"]
+- ["Ps9Equatable", "Cook"]
+- ["Ps9Equatable", "Jobs"]
+- ["Ps9Equatable", "Leonard"]
+- ["Ps9Equatable", "RawValue"]
+- ["Ps9Equatable", "Squires"]
+- ["Ps9Equatable", "Wozniak"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- ["Ps9Equatable", "_toAnyHashable"]
+- ["Ps9Equatable", "avatarImage"]
+- ["Ps9Equatable", "hashValue"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "main"]
+- ["Ps9Equatable", "path"]
+- ["Ps9Equatable", "rawValue"]
+- ["Ps9Equatable", ""]
+- !private ["Ps25ExpressibleByArrayLiteral", "Element"]
+- ["Ps25ExpressibleByArrayLiteral", "init"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "hashValue"]
+- ["Ps32ExpressibleByStringInterpolation", "init"]
+- ["Ps26ExpressibleByStringLiteral", "init"]
+- ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- ["Ps8Hashable", "Cook"]
+- ["Ps8Hashable", "Jobs"]
+- ["Ps8Hashable", "Leonard"]
+- ["Ps8Hashable", "RawValue"]
+- ["Ps8Hashable", "Squires"]
+- ["Ps8Hashable", "Wozniak"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- ["Ps8Hashable", "_toAnyHashable"]
+- ["Ps8Hashable", "avatarImage"]
+- ["Ps8Hashable", "hashValue"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "main"]
+- ["Ps8Hashable", "path"]
+- ["Ps8Hashable", "rawValue"]
+- ["Ps8Hashable", ""]
+- ["SQ", "deinit"]
+- !private ["Ps9Indexable", "Element"]
+- ["Ps9Indexable", "init"]
+- !private ["Ps13IndexableBase", "Element"]
+- ["Ps13IndexableBase", "init"]
+- ["Si", "deinit"]
+- !private ["Si", "hashValue"]
+- !private ["Ps7Integer", "hashValue"]
+- !private ["Ps17IntegerArithmetic", "hashValue"]
+- ["CSo17JSQAudioMediaItem", "deinit"]
+- ["CSo17JSQAudioMediaItem", "init"]
+- ["CSo12JSQMediaItem", "init"]
+- ["CSo10JSQMessage", "deinit"]
+- ["CSo10JSQMessage", "init"]
+- ["PSo14JSQMessageData", "init"]
+- ["PSo19JSQMessageMediaData", "init"]
+- ["CSo22JSQMessagesAvatarImage", "deinit"]
+- ["CSo29JSQMessagesAvatarImageFactory", "avatarImage"]
+- ["CSo17JSQPhotoMediaItem", "init"]
+- !private ["Ps25LosslessStringConvertible", "_getBuiltinLogicValue"]
+- ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps10MirrorPath", "hashValue"]
+- ["Ps10MirrorPath", "init"]
+- !private ["Ps17MutableCollection", "Element"]
+- ["Ps17MutableCollection", "init"]
+- !private ["Ps16MutableIndexable", "Element"]
+- ["Ps16MutableIndexable", "init"]
+- ["PSo8NSCoding", "init"]
+- ["PSo9NSCopying", "init"]
+- ["PSo16NSMutableCopying", "init"]
+- ["CSo8NSObject", "avatarImage"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "main"]
+- ["CSo8NSObject", "path"]
+- ["PSo16NSObjectProtocol", "avatarImage"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "main"]
+- ["PSo16NSObjectProtocol", "path"]
+- ["PSo14NSSecureCoding", "init"]
+- ["CSo8NSString", "init"]
+- ["Sq", "deinit"]
+- !private ["Ps22RandomAccessCollection", "Element"]
+- ["Ps22RandomAccessCollection", "init"]
+- !private ["Ps21RandomAccessIndexable", "Element"]
+- ["Ps21RandomAccessIndexable", "init"]
+- !private ["Vs5Range", "deinit"]
+- !private ["Ps26RangeReplaceableCollection", "Element"]
+- ["Ps26RangeReplaceableCollection", "init"]
+- !private ["Ps25RangeReplaceableIndexable", "Element"]
+- ["Ps25RangeReplaceableIndexable", "init"]
+- ["Ps16RawRepresentable", "Cook"]
+- ["Ps16RawRepresentable", "Jobs"]
+- ["Ps16RawRepresentable", "Leonard"]
+- ["Ps16RawRepresentable", "RawValue"]
+- ["Ps16RawRepresentable", "Squires"]
+- ["Ps16RawRepresentable", "Wozniak"]
+- ["Ps16RawRepresentable", "_toAnyHashable"]
+- ["Ps16RawRepresentable", "hashValue"]
+- ["Ps16RawRepresentable", "init"]
+- ["Ps16RawRepresentable", "rawValue"]
+- ["Ps16RawRepresentable", ""]
+- ["P10Foundation20ReferenceConvertible", "init"]
+- !private ["Ps8Sequence", "Element"]
+- ["Ps8Sequence", "init"]
+- !private ["Ps13SignedInteger", "hashValue"]
+- !private ["Ps12SignedNumber", "hashValue"]
+- !private ["P8SocketIO10SocketData", "Element"]
+- !private ["P8SocketIO10SocketData", "_getBuiltinLogicValue"]
+- !private ["P8SocketIO10SocketData", "hashValue"]
+- ["P8SocketIO10SocketData", "init"]
+- !private ["Ps10Strideable", "hashValue"]
+- ["SS", "deinit"]
+- ["SS", "init"]
+- ["Ps16TextOutputStream", "init"]
+- ["Ps20TextOutputStreamable", "init"]
+- ["PSo29UIAccessibilityIdentification", "init"]
+- ["CSo7UIImage", "deinit"]
+- ["CSo7UIImage", "init"]
+- ["Su", "deinit"]
+- ["V10Foundation3URL", "deinit"]
+- ["V10Foundation3URL", "init"]
+- ["O17SwiftSDKSampleApp4User", "Cook"]
+- ["O17SwiftSDKSampleApp4User", "Jobs"]
+- ["O17SwiftSDKSampleApp4User", "Leonard"]
+- ["O17SwiftSDKSampleApp4User", "RawValue"]
+- ["O17SwiftSDKSampleApp4User", "Squires"]
+- ["O17SwiftSDKSampleApp4User", "Wozniak"]
+- ["O17SwiftSDKSampleApp4User", "_toAnyHashable"]
+- ["O17SwiftSDKSampleApp4User", "deinit"]
+- ["O17SwiftSDKSampleApp4User", "hashValue"]
+- ["O17SwiftSDKSampleApp4User", "init"]
+- ["O17SwiftSDKSampleApp4User", "rawValue"]
+- !private ["Ps14_ArrayProtocol", "Element"]
+- ["Ps14_ArrayProtocol", "init"]
+- !private ["Ps24_DestructorSafeContainer", "Element"]
+- ["Ps24_DestructorSafeContainer", "init"]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "_getBuiltinLogicValue"]
+- ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps35_ExpressibleByBuiltinIntegerLiteral", "hashValue"]
+- ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- ["Ps34_ExpressibleByFileReferenceLiteral", "init"]
+- ["Ps26_ExpressibleByImageLiteral", "init"]
+- ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- ["Ps9_Hashable", "Cook"]
+- ["Ps9_Hashable", "Jobs"]
+- ["Ps9_Hashable", "Leonard"]
+- ["Ps9_Hashable", "RawValue"]
+- ["Ps9_Hashable", "Squires"]
+- ["Ps9_Hashable", "Wozniak"]
+- !private ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- ["Ps9_Hashable", "_toAnyHashable"]
+- ["Ps9_Hashable", "avatarImage"]
+- ["Ps9_Hashable", "hashValue"]
+- ["Ps9_Hashable", "init"]
+- ["Ps9_Hashable", "main"]
+- ["Ps9_Hashable", "path"]
+- ["Ps9_Hashable", "rawValue"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps14_Incrementable", "hashValue"]
+- !private ["Ps8_Integer", "hashValue"]
+- !private ["Ps18_IntegerArithmetic", "hashValue"]
+- ["P10Foundation18_MutablePairBoxing", "init"]
+- !private ["Ps21_ObjectiveCBridgeable", "Element"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "hashValue"]
+- ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Vs26_OptionalNilComparisonType", "deinit"]
+- !private ["Ps14_SignedInteger", "hashValue"]
+- !private ["Ps11_Strideable", "hashValue"]
+depends-nominal:
+- "PSo21AVAudioPlayerDelegate"
+- "Ps9AnyObject"
+- "Sa"
+- "Ps23BidirectionalCollection"
+- "Ps22BidirectionalIndexable"
+- !private "Ps17BitwiseOperations"
+- "Sb"
+- "CSo6Bundle"
+- "Ps7CVarArg"
+- !private "Vs11ClosedRange"
+- "Ps10Collection"
+- "Ps10Comparable"
+- "V17SwiftSDKSampleApp12Conversation"
+- !private "Vs20CountableClosedRange"
+- !private "Vs14CountableRange"
+- "Ps28CustomDebugStringConvertible"
+- "Ps29CustomPlaygroundQuickLookable"
+- "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "V10Foundation4Data"
+- "Ps9Equatable"
+- "Ps25ExpressibleByArrayLiteral"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps27ExpressibleByIntegerLiteral"
+- "Ps32ExpressibleByStringInterpolation"
+- "Ps26ExpressibleByStringLiteral"
+- "Ps33ExpressibleByUnicodeScalarLiteral"
+- "Ps8Hashable"
+- "SQ"
+- "Ps9Indexable"
+- "Ps13IndexableBase"
+- "Si"
+- !private "Ps7Integer"
+- !private "Ps17IntegerArithmetic"
+- "CSo17JSQAudioMediaItem"
+- "CSo12JSQMediaItem"
+- "CSo10JSQMessage"
+- "PSo14JSQMessageData"
+- "PSo19JSQMessageMediaData"
+- "CSo22JSQMessagesAvatarImage"
+- "CSo29JSQMessagesAvatarImageFactory"
+- "CSo17JSQPhotoMediaItem"
+- "Ps25LosslessStringConvertible"
+- "Ps10MirrorPath"
+- "Ps17MutableCollection"
+- "Ps16MutableIndexable"
+- "PSo8NSCoding"
+- "PSo9NSCopying"
+- "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo14NSSecureCoding"
+- "CSo8NSString"
+- "Sq"
+- "Ps22RandomAccessCollection"
+- "Ps21RandomAccessIndexable"
+- !private "Vs5Range"
+- "Ps26RangeReplaceableCollection"
+- "Ps25RangeReplaceableIndexable"
+- "Ps16RawRepresentable"
+- "P10Foundation20ReferenceConvertible"
+- "Ps8Sequence"
+- !private "Ps13SignedInteger"
+- !private "Ps12SignedNumber"
+- "P8SocketIO10SocketData"
+- !private "Ps10Strideable"
+- "SS"
+- "Ps16TextOutputStream"
+- "Ps20TextOutputStreamable"
+- "PSo29UIAccessibilityIdentification"
+- "CSo7UIImage"
+- "Su"
+- "V10Foundation3URL"
+- "O17SwiftSDKSampleApp4User"
+- "Ps14_ArrayProtocol"
+- "Ps24_DestructorSafeContainer"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps35_ExpressibleByBuiltinIntegerLiteral"
+- "Ps34_ExpressibleByBuiltinStringLiteral"
+- "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- "Ps34_ExpressibleByFileReferenceLiteral"
+- "Ps26_ExpressibleByImageLiteral"
+- "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- !private "Ps14_Incrementable"
+- !private "Ps8_Integer"
+- !private "Ps18_IntegerArithmetic"
+- "P10Foundation18_MutablePairBoxing"
+- "Ps21_ObjectiveCBridgeable"
+- !private "Vs26_OptionalNilComparisonType"
+- !private "Ps14_SignedInteger"
+- !private "Ps11_Strideable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Users/mac10/Documents/Raja/sampleApps/SDKSampleApp.swift/SwiftSDKSampleApp-Bridging-Header.h"
+- "/Users/mac10/Documents/Raja/sampleApps/shared/SettingsViewController.h"
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+- "/Users/mac10/Documents/Raja/sampleApps/shared/SettingsViewModel.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZAudioDevice.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZCameraPreview.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZCamera.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZImageUtilities.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZAACEncoder.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZBroadcast.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZH264Encoder.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZBroadcastComponent.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZPlatformInfo.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZVersionInfo.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZError.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZDataSink.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZDataEvent.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZAudioEncoderSink.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZVideoEncoderSink.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZAudioSink.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZMediaSink.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZVideoSink.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZStatus.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZStatusCallback.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZData.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZMediaConfig.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZStreamConfig.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WowzaConfig.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WowzaGoCoder.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WowzaGoCoderSDK.h"
+- "/Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Modules/module.modulemap"
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/AVFoundation.swiftmodule"
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreMedia.swiftmodule"
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreAudio.swiftmodule"
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/SwiftOnoneSupport.swiftmodule"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/Socket.IO-Client-Swift/SocketIO.framework/Modules/SocketIO.swiftmodule/arm.swiftmodule"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/Socket.IO-Client-Swift/SocketIO.framework/Headers/SocketIO-Swift.h"
+- "/Users/mac10/Documents/Raja/sampleApps/Pods/StarscreamSocketIO/zlib/module.modulemap"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/Socket.IO-Client-Swift/SocketIO.framework/Headers/Socket.IO-Client-Swift-umbrella.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/Socket.IO-Client-Swift/SocketIO.framework/Modules/module.modulemap"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/StarscreamSocketIO/StarscreamSocketIO.framework/Modules/StarscreamSocketIO.swiftmodule/arm.swiftmodule"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/StarscreamSocketIO/StarscreamSocketIO.framework/Headers/StarscreamSocketIO-Swift.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/StarscreamSocketIO/StarscreamSocketIO.framework/Headers/StarscreamSocketIO-umbrella.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/StarscreamSocketIO/StarscreamSocketIO.framework/Modules/module.modulemap"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQSystemSoundPlayer/JSQSystemSoundPlayer.framework/Headers/JSQSystemSoundPlayer.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQSystemSoundPlayer/JSQSystemSoundPlayer.framework/Headers/JSQSystemSoundPlayer-umbrella.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQSystemSoundPlayer/JSQSystemSoundPlayer.framework/Modules/module.modulemap"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQMessagesMediaPlaceholderView.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQVideoMediaItem.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQLocationMediaItem.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQPhotoMediaItem.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQAudioMediaItem.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQMediaItem.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQMessageMediaData.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQMessageData.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQMessage.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQAudioMediaViewAttributes.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQMessagesCollectionViewFlowLayoutInvalidationContext.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQMessagesCollectionViewLayoutAttributes.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQMessagesBubblesSizeCalculator.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQMessagesLoadEarlierHeaderView.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQMessagesTypingIndicatorFooterView.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQMessagesCollectionViewCellOutgoing.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQMessagesCollectionViewCellIncoming.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQMessages.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQMessagesToolbarButtonFactory.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQMessagesTimestampFormatter.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQMessagesMediaViewBubbleImageMasker.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQMessageBubbleImageDataSource.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQMessagesBubbleImage.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQMessagesBubbleImageFactory.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQMessageAvatarImageDataSource.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQMessagesAvatarImage.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQMessagesAvatarImageFactory.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQMessagesComposerTextView.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQMessagesToolbarContentView.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQMessagesInputToolbar.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQMessagesCellTextView.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQMessagesLabel.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQMessagesCollectionViewCell.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQMessagesCollectionViewDataSource.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQMessagesCollectionViewDelegateFlowLayout.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQMessagesBubbleSizeCalculating.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQMessagesCollectionViewFlowLayout.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQMessagesCollectionView.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQMessagesViewController.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQMessagesKeyboardController.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/UIView+JSQMessages.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/UIImage+JSQMessages.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/UIDevice+JSQMessages.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/UIColor+JSQMessages.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/NSString+JSQMessages.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/NSBundle+JSQMessages.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQSystemSoundPlayer+JSQMessages.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Headers/JSQMessagesViewController-umbrella.h"
+- "/Users/mac10/Documents/Raja/sampleApps/build/Debug-iphoneos/JSQMessagesViewController/JSQMessagesViewController.framework/Modules/module.modulemap"
+- "/Applications/Temp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreLocation.swiftmodule"
+interface-hash: "3084dc8451f932aa0575512e2cb030fa"

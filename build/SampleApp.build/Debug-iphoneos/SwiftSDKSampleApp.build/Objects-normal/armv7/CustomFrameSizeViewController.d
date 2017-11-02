@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/mac10/Documents/Raja/sampleApps/shared/CustomFrameSizeViewController.m \
+  /Users/mac10/Documents/Raja/sampleApps/shared/CustomFrameSizeViewController.h \
+  /Users/mac10/Documents/Raja/sampleApps/shared/SettingsTextFieldCell.h \
+  /Users/mac10/Documents/Raja/sampleApps/shared/SettingsViewModel.h \
+  /Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Modules/module.modulemap \
+  /Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZAudioDevice.h \
+  /Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZCameraPreview.h \
+  /Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZCamera.h \
+  /Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZImageUtilities.h \
+  /Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZAACEncoder.h \
+  /Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZBroadcast.h \
+  /Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZH264Encoder.h \
+  /Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZBroadcastComponent.h \
+  /Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZPlatformInfo.h \
+  /Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZVersionInfo.h \
+  /Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZError.h \
+  /Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZDataSink.h \
+  /Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZDataEvent.h \
+  /Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZAudioEncoderSink.h \
+  /Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZVideoEncoderSink.h \
+  /Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZAudioSink.h \
+  /Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZMediaSink.h \
+  /Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZVideoSink.h \
+  /Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZStatus.h \
+  /Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZStatusCallback.h \
+  /Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZData.h \
+  /Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZMediaConfig.h \
+  /Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WZStreamConfig.h \
+  /Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WowzaConfig.h \
+  /Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WowzaGoCoder.h \
+  /Users/mac10/Documents/Raja/sampleApps/WowzaGoCoderSDK.framework/Headers/WowzaGoCoderSDK.h
